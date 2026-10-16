@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP 0603 3D New Footprint=cap 1206 3D
+Change Component Footprint: Designator=C10 Old Footprint=CAP 0603 3D New Footprint=cap 1206 3D
+Change Component Footprint: Designator=C14 Old Footprint=CAP 0603 3D New Footprint=cap 1206 3D
+Change Component Footprint: Designator=C19 Old Footprint=CAP 0603 3D New Footprint=cap 1206 3D
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R5 4.7 КОм
+Added Room: Name=Схема электрическая принципиальная имитации напряжения, тока и сопротивления

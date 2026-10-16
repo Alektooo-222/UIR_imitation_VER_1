@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/FreeRTOS-Kernel/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/FreeRTOS-Kernel/include/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/FreeRTOS-Kernel/portable/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/cmake/stm32cubemx/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/BSP/UIR/UIR/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/BSP/UIR/INA219/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/BSP/UIR/MCP4725/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/Shared/swoTrace/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/Shared/dwt/cmake_install.cmake",
+		"C:/GitHub/UIR_imitation_VER_1/Software/build/Debug/Shared/etl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

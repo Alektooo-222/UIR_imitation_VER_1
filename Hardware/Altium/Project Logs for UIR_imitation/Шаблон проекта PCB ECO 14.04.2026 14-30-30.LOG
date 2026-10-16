@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=R?
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R5 10 КОм
+Added Room: Name=Схема электрическая принципиальная имитации напряжения, тока и сопротивления

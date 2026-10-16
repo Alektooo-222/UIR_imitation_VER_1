@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NEAGTIVE_FEEDBACK Pin=XS3-1
+Removed Pin From Net: NetName=GND Pin=XS3-2
+Added Pin To Net: NetName=GND Pin=XS3-1
+Added Pin To Net: NetName=NEAGTIVE_FEEDBACK Pin=XS3-2
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R1 10 Ом
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R2 1.5 КОм
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R3 10K
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R4 10 КОм
+Added Room: Name=Схема электрическая принципиальная имитации напряжения, тока и сопротивления

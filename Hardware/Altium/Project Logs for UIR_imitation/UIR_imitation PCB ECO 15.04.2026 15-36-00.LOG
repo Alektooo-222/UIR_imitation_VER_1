@@ -1,0 +1,5 @@
+Added Component: Designator=R(Res_0603 3D)
+Added Pin To Net: NetName=ADDRESS Pin=R-1
+Added Pin To Net: NetName=3В3 Pin=R-2
+Added Member To Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=Component R 10K
+Added Room: Name=Схема электрическая принципиальная имитации напряжения, тока и сопротивления

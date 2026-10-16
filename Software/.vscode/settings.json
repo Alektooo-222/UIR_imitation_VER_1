@@ -1,0 +1,23 @@
+{
+    "config": "Debug",
+
+    //"mcu_server": "127.0.0.1",
+    //"mcu_server": "localhost",
+    "mcu_server": "192.168.1.15",
+
+    "files.associations": {
+        "main.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "portable.h": "c",
+        "freertosconfig.h": "c",
+        "list.h": "c",
+        "projdefs.h": "c",
+        "portmacro.h": "c"
+    },
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "C_Cpp.default.compilerPath": "C:/Path/To/arm-none-eabi-gcc.exe",
+    "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake.exe",
+    "cortex-debug.variableUseNaturalFormat": true
+
+}

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SCL Pin=XS1-1
+Removed Pin From Net: NetName=SDA Pin=XS1-2
+Removed Member From Class: ClassName=Схема электрическая принципиальная имитации напряжения, тока и сопротивления Member=XS1
+Added Room: Name=Схема электрическая принципиальная имитации напряжения, тока и сопротивления

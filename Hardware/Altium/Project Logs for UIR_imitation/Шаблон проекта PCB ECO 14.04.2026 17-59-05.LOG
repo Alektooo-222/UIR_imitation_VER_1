@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=-12V New Net Name=-12В
+Change Net Name : Old Net Name=5V New Net Name=5В
+Change Net Name : Old Net Name=12V New Net Name=12В
+Added Room: Name=Схема электрическая принципиальная имитации напряжения, тока и сопротивления
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7

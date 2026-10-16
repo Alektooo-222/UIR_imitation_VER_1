@@ -1,0 +1,292 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "FreeRTOS-Kernel",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-FreeRTOS-Kernel-Debug-c1ab0becfa2145196601.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Shared/FreeRTOS-Kernel",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "FreeRTOS-Kernel/include",
+					"jsonFile" : "directory-FreeRTOS-Kernel.include-Debug-9d3256c0e7420888a486.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Shared/FreeRTOS-Kernel/include"
+				},
+				{
+					"build" : "FreeRTOS-Kernel/portable",
+					"jsonFile" : "directory-FreeRTOS-Kernel.portable-Debug-b9cbf593cf0ac81d9f63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Shared/FreeRTOS-Kernel/portable",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "cmake/stm32cubemx",
+					"jsonFile" : "directory-cmake.stm32cubemx-Debug-a874d3cc84b5982fda2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cmake/stm32cubemx",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "BSP/UIR/UIR",
+					"jsonFile" : "directory-BSP.UIR.UIR-Debug-e93ea7373924f234e80a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "BSP/UIR/UIR"
+				},
+				{
+					"build" : "BSP/UIR/INA219",
+					"jsonFile" : "directory-BSP.UIR.INA219-Debug-b0c36b5dc6adeb17bca1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "BSP/UIR/INA219"
+				},
+				{
+					"build" : "BSP/UIR/MCP4725",
+					"jsonFile" : "directory-BSP.UIR.MCP4725-Debug-5e84435a086fb6d26e1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "BSP/UIR/MCP4725"
+				},
+				{
+					"build" : "Shared/swoTrace",
+					"jsonFile" : "directory-Shared.swoTrace-Debug-45838467f1ba2ee3bc64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Shared/swoTrace"
+				},
+				{
+					"build" : "Shared/dwt",
+					"jsonFile" : "directory-Shared.dwt-Debug-c8f214dd8665f4186c4c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Shared/dwt"
+				},
+				{
+					"build" : "Shared/etl",
+					"jsonFile" : "directory-Shared.etl-Debug-59b669b4ab1a3b74cfbb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Shared/etl"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "UIR_F303CC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "UIR",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "INA219",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "MCP4725",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "swoTrace",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "dwt",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "etl",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "STM32_Drivers::@768a070a0fe75716b479",
+					"jsonFile" : "target-STM32_Drivers-Debug-3e382e0fbc24c8374338.json",
+					"name" : "STM32_Drivers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UIR_F303CC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UIR_F303CC-Debug-d49b57de6b4a2e5423e7.json",
+					"name" : "UIR_F303CC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "USB_Device_Library::@768a070a0fe75716b479",
+					"jsonFile" : "target-USB_Device_Library-Debug-371f3c0086a4a1d1463b.json",
+					"name" : "USB_Device_Library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freertos_kernel::@8d1fe2b5824bfeb7a79b",
+					"jsonFile" : "target-freertos_kernel-Debug-1be6b3464943149a05e1.json",
+					"name" : "freertos_kernel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos_kernel_port::@3b750e658ec9e84f3050",
+					"jsonFile" : "target-freertos_kernel_port-Debug-4f62ae94ef590adb9d13.json",
+					"name" : "freertos_kernel_port",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/GitHub/UIR_imitation_VER_1/Software/build/Debug",
+		"source" : "C:/GitHub/UIR_imitation_VER_1/Software"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
